@@ -15,6 +15,140 @@
         "严肃冲突或对方可能将其理解为真实暴力威胁",
         "语境不确定"
       ]
+    },
+    {
+      "id": "002",
+      "file": "stickers/002-accept-my-heart.jpeg",
+      "title": "请收下！我的心意",
+      "meaning": "害羞地送上心意",
+      "use_when": [
+        "表达心意",
+        "感谢或送礼"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "003",
+      "file": "stickers/003-really-like-you.jpeg",
+      "title": "好、好喜欢你！",
+      "meaning": "害羞但直白地表达喜欢",
+      "use_when": [
+        "表达喜欢",
+        "被夸后害羞"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "004",
+      "file": "stickers/004-heart-over-head.jpeg",
+      "title": "爱心举过头顶",
+      "meaning": "热情地比一个大大的心",
+      "use_when": [
+        "回应亲近",
+        "表达支持"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "005",
+      "file": "stickers/005-hehe-love-you.jpeg",
+      "title": "嘿嘿，YOU",
+      "meaning": "抱着爱心偷偷开心",
+      "use_when": [
+        "收到喜欢后的开心",
+        "甜甜地回应"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "006",
+      "file": "stickers/006-big-heart.jpeg",
+      "title": "送你一个大爱心",
+      "meaning": "张开双臂比大爱心",
+      "use_when": [
+        "热情表达喜欢",
+        "夸张地示爱"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "007",
+      "file": "stickers/007-flowers-for-you.jpeg",
+      "title": "花花送你！",
+      "meaning": "捧着一大束花送给对方",
+      "use_when": [
+        "庆祝",
+        "感谢",
+        "送花"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "008",
+      "file": "stickers/008-heart-eyes.jpeg",
+      "title": "心动小狗",
+      "meaning": "满眼亮晶晶地心动",
+      "use_when": [
+        "被可爱到",
+        "欣赏",
+        "心动"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "009",
+      "file": "stickers/009-give-paw.jpeg",
+      "title": "给手手！",
+      "meaning": "伸出爪爪主动亲近",
+      "use_when": [
+        "牵手",
+        "乖巧回应",
+        "求互动"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "010",
+      "file": "stickers/010-happy-running.jpeg",
+      "title": "开心地跑路",
+      "meaning": "带着爱心开心地跑开",
+      "use_when": [
+        "开心退场",
+        "得逞后跑路"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "011",
+      "file": "stickers/011-smug-puppy.jpeg",
+      "title": "小狗得志",
+      "meaning": "叉腰得意的小狗",
+      "use_when": [
+        "得意",
+        "被夸后骄傲",
+        "玩笑式邀功"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
     }
   ]
 }
