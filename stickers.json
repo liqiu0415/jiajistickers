@@ -285,6 +285,104 @@
       "avoid_when": [
         "严肃或不适合卖萌的语境"
       ]
+    },
+    {
+      "id": "022",
+      "file": "stickers/022-hungry-puppy.jpeg",
+      "title": "饿……好饿……",
+      "meaning": "小狗饿得软趴趴，伸着舌头",
+      "use_when": [
+        "表达饥饿",
+        "等饭",
+        "玩笑式求投喂"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "023",
+      "file": "stickers/023-coming-to-you.jpeg",
+      "title": "我要和你好，我来了",
+      "meaning": "兴奋地跑向对方，主动示好",
+      "use_when": [
+        "主动亲近",
+        "和好",
+        "开心登场"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "024",
+      "file": "stickers/024-teary-pleading.jpeg",
+      "title": "委屈巴巴",
+      "meaning": "小狗流着眼泪，抱着爪爪委屈地看人",
+      "use_when": [
+        "玩笑式委屈",
+        "撒娇",
+        "求安慰"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "025",
+      "file": "stickers/025-watery-eyes.jpeg",
+      "title": "水汪汪地看着你",
+      "meaning": "坐着的小狗眼睛水汪汪，温柔又期待",
+      "use_when": [
+        "安静期待",
+        "认真听",
+        "表达亲近"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "026",
+      "file": "stickers/026-sparkling-tears.jpeg",
+      "title": "眼泪汪汪",
+      "meaning": "小狗含着大颗眼泪，周围闪着星星",
+      "use_when": [
+        "感动",
+        "夸张委屈",
+        "求抱抱"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "027",
+      "file": "stickers/027-flat-exit.jpeg",
+      "title": "扁扁地走开……",
+      "meaning": "小狗扁扁地离开，显得失落又委屈",
+      "use_when": [
+        "玩笑式退场",
+        "小小失落",
+        "装作受伤"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "028",
+      "file": "stickers/028-rebellious-puppy.jpeg",
+      "title": "气鼓鼓的小狗",
+      "meaning": "小狗皱眉叉腰，气鼓鼓地站着",
+      "use_when": [
+        "玩笑式生气",
+        "抗议",
+        "假装凶"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
     }
   ]
 }
