@@ -149,6 +149,142 @@
       "avoid_when": [
         "严肃或不适合卖萌的语境"
       ]
+    },
+    {
+      "id": "012",
+      "file": "stickers/012-wont-you-stay.jpeg",
+      "title": "你不陪我？",
+      "meaning": "含泪拿着蔫花，委屈地想要陪伴",
+      "use_when": [
+        "玩笑式挽留",
+        "撒娇求陪伴"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "013",
+      "file": "stickers/013-little-dog-dance.jpeg",
+      "title": "小狗小摆",
+      "meaning": "张开手脚开心地小幅摇摆",
+      "use_when": [
+        "开心",
+        "轻快回应",
+        "庆祝小事"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "014",
+      "file": "stickers/014-big-dog-dance.jpeg",
+      "title": "大狗大摆",
+      "meaning": "伴着音符得意地大幅摇摆",
+      "use_when": [
+        "很开心",
+        "放松",
+        "庆祝"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "015",
+      "file": "stickers/015-proud-little-dog.jpeg",
+      "title": "得意的小狗！",
+      "meaning": "叉腰眯眼，得意地展示自己",
+      "use_when": [
+        "被夸后得意",
+        "玩笑式炫耀"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "016",
+      "file": "stickers/016-triumphant-laugh.jpeg",
+      "title": "得逞的大笑！",
+      "meaning": "张开双臂，得逞后笑得很开心",
+      "use_when": [
+        "恶作剧得逞",
+        "计谋成功",
+        "玩笑式胜利"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "017",
+      "file": "stickers/017-smug-person.jpeg",
+      "title": "很嘚瑟的人",
+      "meaning": "抱臂闭眼，故作淡定地嘚瑟",
+      "use_when": [
+        "装作不在意但很得意",
+        "被夸后骄傲"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "018",
+      "file": "stickers/018-big-grin.jpeg",
+      "title": "咧嘴大笑",
+      "meaning": "举着手，露出夸张的大白牙",
+      "use_when": [
+        "大笑",
+        "开心庆祝",
+        "热情回应"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "019",
+      "file": "stickers/019-money-for-you.jpeg",
+      "title": "拿着吧我偷老大钱养你",
+      "meaning": "举着钞票，夸张地表示愿意养你",
+      "use_when": [
+        "玩笑式投喂",
+        "夸张示好"
+      ],
+      "avoid_when": [
+        "真实金钱承诺或借贷语境"
+      ]
+    },
+    {
+      "id": "020",
+      "file": "stickers/020-sparkling-eyes.jpeg",
+      "title": "亮晶晶的小狗",
+      "meaning": "眨着闪亮的大眼睛，期待又兴奋",
+      "use_when": [
+        "期待",
+        "被惊喜到",
+        "求夸奖"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
+    },
+    {
+      "id": "021",
+      "file": "stickers/021-shy-puppy.jpeg",
+      "title": "扭捏",
+      "meaning": "抱着手臂害羞扭捏，身边飘着爱心",
+      "use_when": [
+        "害羞",
+        "被逗后扭捏",
+        "含蓄表达喜欢"
+      ],
+      "avoid_when": [
+        "严肃或不适合卖萌的语境"
+      ]
     }
   ]
 }
